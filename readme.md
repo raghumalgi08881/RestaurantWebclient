@@ -20,7 +20,7 @@ proceed or cancel the request.
 
 
 
-@Override
+    @Override
     public void onReceivedSslError(WebView view, final SslErrorHandler handler, SslError error) {
 	AlertDialog.Builder builder = new AlertDialog.Builder(ExampleActivity.this);
         AlertDialog alertDialog = builder.create();
