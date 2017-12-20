@@ -7,11 +7,6 @@ run configuration to "Nothing"
 has no launcher activity,so while installing the app from android studio please edit the run configuration to "Nothing"
 
 
-Github url for all three apps.
-https://github.com/raghumalgi08881
-
-
-
 
 Handling the requests originating from the Webview are SSL encrypted (https):
 
