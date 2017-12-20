@@ -15,7 +15,7 @@ https://github.com/raghumalgi08881
 
 Handling the requests originating from the Webview are SSL encrypted (https):
 
-Implement a webviewclient and override onReceivedSslError like below which shows a dialog to either
+Implement a webviewclient for rhe webview and override onReceivedSslError like below which shows a dialog to either
 proceed or cancel the request.
 
 
